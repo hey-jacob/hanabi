@@ -38,9 +38,7 @@ if __name__ == '__main__':
 
 
     for key in range(0, 26):
-        print(key, ":", counter[key], end="\n")
-
-    print('\n')
+        print(key, ":", counter[key], end='\n')
 
     for key in range(0, 26):
         print(key, ":", round((counter[key]/max_it)*100,2), "% ", end="\n")
