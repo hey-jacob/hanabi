@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HANABI
 
 Hanabi is a card game, meaning 'fireworks' in Japanese. It is a cooperative game for 2-5 players, where the players are aware of the other players' cards, but not their own. The overall goal is to reach as high a score as possible by cooperating through three basic actions: 'Throw', 'Put' and 'Information'. Body language and other forms of communications are not allowed. Maximum score is 25 points. 
@@ -25,3 +26,6 @@ It should also be added that ML and Hanabi already have been introduced to each 
 I realize that the complexity of the game and the potential algorithms makes this an ambition project. Perhaps it will float in the matrix forever, like an unfound bottle mail. But hopefully it will further feed my curiosity and some learning can be achieved. The project is still under development and on pause, as I'm currently flipping through 'Hands-On Machine Learning with Scikit-Learn, Keras & Tensorflow' in search of answers and inspiration. The project will go on when life allows it to. 
 
 If you have any feedback or want to roast my code, e-mail me on heyjacobcode@gmail.com
+=======
+# hanabi
+>>>>>>> 6ae897de12ae8bb84bf4f7a4c68f7022a92d0eb4
